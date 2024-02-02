@@ -1,2 +1,2 @@
 # form-
-This is an assignment  of the odin project  probably gonna redesign this in the near future 
+This is an assignment  of the odin project  probably gonna redesign this in the near future  .. with more js 
